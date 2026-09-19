@@ -1,6 +1,14 @@
-# Assignment 2 commands
+AI OPs Assignment 2 Submission
+- By Madhav AK
+- DA24B012
 
-## Questions 1 and 2
+This README file goes through all major submission points.
+
+- Main 2 pg report can be found in the main directory of this report.
+- Video Submission Link: 
+- Questionwise folders have been created
+
+### Questions 1 and 2
 
 ```bash
 cd q1-q2
@@ -41,7 +49,7 @@ curl -s -w '\nTime taken for command: %{time_total}s\n' \
 docker compose down
 ```
 
-## Question 3
+### Question 3
 
 ```bash
 cd q3
@@ -67,7 +75,7 @@ kubectl --context=a2-cluster logs \
 grep -E 'Shard:|Invalid rows:' q3-validation-results.txt
 ```
 
-## Question 4
+### Question 4
 
 ```bash
 cd q4
