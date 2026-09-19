@@ -8,3 +8,4 @@ I used the LLM for the following purposes:
 - Help with TfidfVectorizer in sklearn.feature_extraction.text and MultinomialNB in sklearn.naive_bayes (I was not familiar with exact syntax etc)
 - Help in exact syntax of some commands (for example exact flags to accomplish something that was needed)
 - Debugging formatting issues in the Yaml and Docker files
+- Beautifying my README to have nice bash script boundaries based on the commands i ran
