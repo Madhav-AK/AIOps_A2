@@ -10,6 +10,12 @@ This README file goes through all major submission points.
 
 ### Questions 1 and 2
 
+- data folder contains the data and model joblib
+- evidence image folders contain screenshots of terminal output (present in video as well)
+- generate_data_q1.py contains the code to generate the data
+- predictor.py is the main predictor code
+- train.py trains the model on the data
+
 ```bash
 cd q1-q2
 
@@ -51,6 +57,11 @@ docker compose down
 
 ### Question 3
 
+- data folder contains the 8 csv files
+- evidence image folders contain screenshots of terminal output (present in video as well)
+- generate_data_q3.py contains the code to generate the data
+- validator.py is the main code that runs the validation on a single csv
+
 ```bash
 cd q3
 
@@ -76,6 +87,12 @@ grep -E 'Shard:|Invalid rows:' q3-validation-results.txt
 ```
 
 ### Question 4
+
+- data folder contains the data and the model joblib
+- evidence image folders contain screenshots of terminal output (present in video as well)
+- generate_data_q1.py contains the code to generate the data (Same as q1)
+- predictor.py is the main predictor code
+- train.py trains the model on the data
 
 ```bash
 cd q4
