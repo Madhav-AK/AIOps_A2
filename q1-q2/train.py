@@ -1,3 +1,7 @@
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+
 import argparse
 import joblib
 import pandas as pd
@@ -12,8 +16,8 @@ from sklearn.model_selection import train_test_split
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--data", default="data/spam_dataset.csv")
-    parser.add_argument("--out", default="data/model.joblib")
+    parser.add_argument("--data", default=str(BASE_DIR / "data/spam_dataset.csv"))
+    parser.add_argument("--out", default=str(BASE_DIR / "data/model.joblib"))
     args = parser.parse_args()
 
     df = pd.read_csv(args.data)

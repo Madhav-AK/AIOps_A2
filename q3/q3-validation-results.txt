@@ -1,0 +1,48 @@
+[pod/email-validator-job-7-m7lhj/worker] Pod: email-validator-job-7-m7lhj
+[pod/email-validator-job-7-m7lhj/worker] Node: a2-cluster
+[pod/email-validator-job-7-m7lhj/worker] Job index: 7
+[pod/email-validator-job-7-m7lhj/worker] Shard: user_signup_data_8.csv
+[pod/email-validator-job-7-m7lhj/worker] Total rows: 100
+[pod/email-validator-job-7-m7lhj/worker] Invalid rows: 55
+[pod/email-validator-job-0-z496h/worker] Pod: email-validator-job-0-z496h
+[pod/email-validator-job-0-z496h/worker] Node: a2-cluster-m02
+[pod/email-validator-job-0-z496h/worker] Job index: 0
+[pod/email-validator-job-0-z496h/worker] Shard: user_signup_data_1.csv
+[pod/email-validator-job-0-z496h/worker] Total rows: 100
+[pod/email-validator-job-0-z496h/worker] Invalid rows: 48
+[pod/email-validator-job-1-q48dx/worker] Pod: email-validator-job-1-q48dx
+[pod/email-validator-job-1-q48dx/worker] Node: a2-cluster
+[pod/email-validator-job-1-q48dx/worker] Job index: 1
+[pod/email-validator-job-1-q48dx/worker] Shard: user_signup_data_2.csv
+[pod/email-validator-job-1-q48dx/worker] Total rows: 100
+[pod/email-validator-job-1-q48dx/worker] Invalid rows: 53
+[pod/email-validator-job-2-hq8vb/worker] Pod: email-validator-job-2-hq8vb
+[pod/email-validator-job-2-hq8vb/worker] Node: a2-cluster-m02
+[pod/email-validator-job-2-hq8vb/worker] Job index: 2
+[pod/email-validator-job-2-hq8vb/worker] Shard: user_signup_data_3.csv
+[pod/email-validator-job-2-hq8vb/worker] Total rows: 100
+[pod/email-validator-job-2-hq8vb/worker] Invalid rows: 42
+[pod/email-validator-job-3-gcq99/worker] Pod: email-validator-job-3-gcq99
+[pod/email-validator-job-3-gcq99/worker] Node: a2-cluster
+[pod/email-validator-job-3-gcq99/worker] Job index: 3
+[pod/email-validator-job-3-gcq99/worker] Shard: user_signup_data_4.csv
+[pod/email-validator-job-3-gcq99/worker] Total rows: 100
+[pod/email-validator-job-3-gcq99/worker] Invalid rows: 58
+[pod/email-validator-job-4-q29mc/worker] Pod: email-validator-job-4-q29mc
+[pod/email-validator-job-4-q29mc/worker] Node: a2-cluster-m02
+[pod/email-validator-job-4-q29mc/worker] Job index: 4
+[pod/email-validator-job-4-q29mc/worker] Shard: user_signup_data_5.csv
+[pod/email-validator-job-4-q29mc/worker] Total rows: 100
+[pod/email-validator-job-4-q29mc/worker] Invalid rows: 53
+[pod/email-validator-job-5-7zbxn/worker] Pod: email-validator-job-5-7zbxn
+[pod/email-validator-job-5-7zbxn/worker] Node: a2-cluster-m02
+[pod/email-validator-job-5-7zbxn/worker] Job index: 5
+[pod/email-validator-job-5-7zbxn/worker] Shard: user_signup_data_6.csv
+[pod/email-validator-job-5-7zbxn/worker] Total rows: 100
+[pod/email-validator-job-5-7zbxn/worker] Invalid rows: 49
+[pod/email-validator-job-6-fkhdf/worker] Pod: email-validator-job-6-fkhdf
+[pod/email-validator-job-6-fkhdf/worker] Node: a2-cluster
+[pod/email-validator-job-6-fkhdf/worker] Job index: 6
+[pod/email-validator-job-6-fkhdf/worker] Shard: user_signup_data_7.csv
+[pod/email-validator-job-6-fkhdf/worker] Total rows: 100
+[pod/email-validator-job-6-fkhdf/worker] Invalid rows: 37

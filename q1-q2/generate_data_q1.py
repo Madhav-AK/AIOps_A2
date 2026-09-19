@@ -1,3 +1,7 @@
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+
 import random
 import pandas as pd
 
@@ -34,4 +38,4 @@ for i in range(1000):
         msg = t.format(activity=random.choice(ACTIVITIES), day=random.choice(DAYS))
         rows.append((msg, "ham"))
 
-pd.DataFrame(rows, columns=["text", "label"]).to_csv("data/spam_dataset.csv", index=False)
+pd.DataFrame(rows, columns=["text", "label"]).to_csv(BASE_DIR / "data/spam_dataset.csv", index=False)
