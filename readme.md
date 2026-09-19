@@ -5,7 +5,7 @@ AI OPs Assignment 2 Submission
 This README file goes through all major submission points.
 
 - Main 2 pg report can be found in the main directory of this report.
-- Video Submission Link: 
+- Video Submission Link: https://drive.google.com/file/d/14wyGM1HaLKTGH3-25UlgLirOj8GmjKEB/view?usp=sharing
 - Questionwise folders have been created
 
 ### Questions 1 and 2
